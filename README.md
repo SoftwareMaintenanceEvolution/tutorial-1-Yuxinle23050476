@@ -1,11 +1,43 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LQr4ft17)
-# Introduction
-Hi! I'm [Your Name], a student in the Framework-Based Software Design and Development course. 
-I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+# 👋 Hi there! I'm **Yuxin Le**  
 
-## GitHub Profile
+🎓 **Student ID:** 23050476  
+💻 **Major:** Software Engineering (Year 3)  
 
-You can view my personalized GitHub profile [here, insert link to your github profile]
+---
 
+## 🌱 About Me  
+
+Hi! I'm a third-year Software Engineering student who enjoys learning how software systems evolve and improve over time.  
+Outside of coding, I love spending time **hiking 🏔️**, **reading interesting books 📚**, and exploring new ideas that connect technology with real life.  
+
+I believe that software engineering is not just about writing code — it's about solving problems creatively and building things that make a difference. ✨  
+
+---
+
+## 🎯 Course Expectations  
+
+In this course, I hope to:  
+- Gain **hands-on experience** with modern software maintenance practices.  
+- Learn **how to work with legacy systems** effectively.  
+- Improve my **collaboration and Git workflow** skills.  
+- Develop a stronger understanding of **real-world software evolution**.  
+
+---
+
+## 🖼️ My Image  
+
+![This is me](image.jpg)  
+*(An image representing myself — uploaded as part of Tutorial 1)*  
+
+---
+
+## 🌐 GitHub Profile  
+
+You can view my personalized GitHub profile here:  
+👉 [https://github.com/yuxinle](https://github.com/yuxinle)
+
+---
+
+✨ _“Code is like hiking — one step at a time, but the view at the top is always worth it.”_
